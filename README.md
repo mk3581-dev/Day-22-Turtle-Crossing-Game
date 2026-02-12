@@ -1,9 +1,7 @@
-Here’s a clean, professional README.md for your Day 22 project.
-You can copy-paste this directly into your README.md file 👇
 
 🐢 Turtle Crossing Game
 
-A fun arcade-style road crossing game built using Python and the Turtle graphics module as part of Day 23 of Angela Yu’s 100 Days of Code – Python Bootcamp.
+A fun arcade-style road crossing game built using Python and the Turtle graphics module as part of Day 22 of Angela Yu’s 100 Days of Code – Python Bootcamp.
 
 The objective is simple:
 Help the turtle cross the road without getting hit by moving cars. Each successful crossing increases the level and makes the game harder!
